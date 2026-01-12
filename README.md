@@ -44,7 +44,7 @@ The goal of this project is to understand the **mathematics, logic, and workflow
 ## Future Improvements
 
 - Add algorithms such as **Softmax Regression**, **Polynomial Regression**, and **Neural Networks** as I continue learning.
-- Introduce model optimizations like **train–test split**, **better evaluation metrics**, and **performance analysis** to gain insight into how machine learning algorithms work behind the scenes.
+- Introduce model optimizations like **train–test split**, **better evaluation metrics**, **performance analysis** and etc to gain insight into how machine learning algorithms work behind the scenes.
 
 
 
